@@ -32,7 +32,5 @@ Requires python 3.10 or above
 
 `python app.py`
 
-##### note for developers
-One can use a framework like [uvicorn](https://www.uvicorn.org/) to help in continuous reloading during development
 ##### Training script
 `Train.ipynb` can be used to modify the training script
